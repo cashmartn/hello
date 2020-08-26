@@ -1,0 +1,26 @@
+division by zero can leead to problems
+doing things illegal in math cause problems in code
+
+an integer and a floating number are not the same thing
+when working with integers must be two integers result in integer
+when two integers are divided the fractin part is cut off
+solution use temperary type casting
+double needed to store floating point value
+double only has to be used once to make it double
+
+    Basic input and output
+both support input keyboard and output terminal
+standard input for c is the scanf function
+printf for output
+f = formatted
+with printf you hsve more control over floating point
+
+    Java IO
+for standard output you can use system.out.print or system.out.println or system.out.printf
+standard input: use scanner
+a scanner can read in from the standard input
+system.in
+
+convert a string to double: use atof()
+if you want to convert to int: use atoi()
+
